@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590689527014.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2547290179",
+    "id" : "58B4E305",
+    "lastKnownWriteTime" : 1590689537,
+    "last_content_update" : 1590689537104,
+    "path" : "D:/FCD/BigDataRAzure/Mini-Projeto05/Minha Versao/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "1,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

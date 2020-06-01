@@ -1,0 +1,12 @@
+name: Covid
+title: Covid
+username:
+account: leosampsousa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2372215
+bundleId: 3201642
+url: https://leosampsousa.shinyapps.io/Covid/
+when: 1590690908.18464
+asMultiple: FALSE
+asStatic: FALSE

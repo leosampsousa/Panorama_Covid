@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590690441470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3234934770",
+    "id" : "718886E1",
+    "lastKnownWriteTime" : 1590690613,
+    "last_content_update" : 1590690613796,
+    "path" : "D:/FCD/BigDataRAzure/Mini-Projeto05/Minha Versao/covid_new.R",
+    "project_path" : "covid_new.R",
+    "properties" : {
+        "cursorPosition" : "193,50",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
